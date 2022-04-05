@@ -7,7 +7,7 @@
 - `git clone https://github.com/rink9/jest-puppeteer-scaffold.git`
 - `cd to jest-puppeteer-scaffold`
 
-## Step 2
+## Step 2 [ skip this step if your project has no media's to login ]
 ## Provide your credentials
 - Open `.env.example` file under tests/e2e and provide your credentials
 - After everything is done, rename file as `.env` and save it
